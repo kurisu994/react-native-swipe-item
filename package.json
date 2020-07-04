@@ -1,5 +1,5 @@
 {
-  "name": "react-native-swipe-item",
+  "name": "react-native-swipe-action",
   "version": "1.0.0",
   "description": "A powerful React Native swipe component",
   "main": "lib/index.js",
