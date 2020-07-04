@@ -1,0 +1,43 @@
+{
+  "name": "react-native-swipe-item",
+  "version": "1.0.0",
+  "description": "A powerful React Native swipe component",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "make build",
+    "lint": "make lint"
+  },
+  "author": "Kurisu",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-eslint": "^7.1.1",
+    "babel-preset-latest": "^6.16.0",
+    "babel-preset-react": "^6.16.0",
+    "babel-preset-stage-0": "^6.16.0",
+    "eslint": ">=4.18.2",
+    "eslint-config-airbnb": "^13.0.0",
+    "eslint-plugin-babel": "^4.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-react": "^6.8.0"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-native": ">=0.59.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurisu994/react-native-swipe-item"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "swipe",
+    "ListView",
+    "TableView"
+  ],
+  "dependencies": {
+    "prop-types": "^15.5.10"
+  }
+}
