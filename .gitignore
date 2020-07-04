@@ -5,4 +5,4 @@ lib
 package-lock.json
 yarn.lock
 example/
-info.txt
+info.md
